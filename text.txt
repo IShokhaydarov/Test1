@@ -1,2 +1,2 @@
-What's up
-i love java
+Hello world
+i hate java
